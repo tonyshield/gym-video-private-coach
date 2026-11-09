@@ -7,6 +7,7 @@ __pycache__/
 !.env.example
 # Private input and derived training material must stay out of the public repo.
 private/
+pravite/
 input/
 inputs/
 output/
@@ -26,3 +27,11 @@ reports/
 *.HEIC
 *.wav
 *.mp3
+
+# Other private media formats and annotations
+*.JPEG
+*.JPG
+*.PNG
+*.svg
+*.webp
+*.pdf

@@ -80,4 +80,4 @@ evals/scenarios.md
 
 受 [zakezhang/tennis-video-private-coach](https://github.com/zakezhang/tennis-video-private-coach/tree/main/skills/tennis-video-private-coach-zh) 的证据复盘流程启发，按健身场景重新编写。训练原则参考 [ACSM 2026 官方概要](https://acsm.org/resistance-training-guidelines-update-2026/)，详细出处与未核实范围见 [来源](skills/gym-video-private-coach-zh/references/sources.md)。
 
-[MIT License](LICENSE)。当前为本地开发版本，尚未配置远程仓库或发布。
+[MIT License](LICENSE)。项目源码：[tonyshield/gym-video-private-coach](https://github.com/tonyshield/gym-video-private-coach)。
