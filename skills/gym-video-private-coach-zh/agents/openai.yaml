@@ -1,0 +1,4 @@
+interface:
+  display_name: "私人健身视频教练"
+  short_description: "复盘普通健身房训练视频，用具体画面证据解释动作，并给出下次训练建议"
+  default_prompt: "请使用 $gym-video-private-coach-zh 分析我的健身视频，指出最值得改的一两点和下次训练安排。"
